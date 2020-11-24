@@ -1,0 +1,33 @@
+/* .text{
+    position: relative;
+    left: 400px;
+    top: 450px;
+} */
+.c_x{
+    position: absolute;
+    left:0px;
+    top:0px;
+}
+.c_y{
+    position: absolute;
+    left:0px;
+    top:20px;
+}
+
+.di_x{
+    position: absolute;
+    left:0px;
+    top:50px;
+}
+
+.di_y{
+    position: absolute;
+    left:0px;
+    top:70px;
+}
+
+.di_t{
+    position: absolute;
+    left:0px;
+    top:90px;
+}
